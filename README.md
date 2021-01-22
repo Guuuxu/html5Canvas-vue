@@ -1,5 +1,7 @@
 # html5canvas
 
+html5canvas在vue当中的使用
+
 ## Project setup
 ```
 npm install
