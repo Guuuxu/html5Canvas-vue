@@ -1,0 +1,209 @@
+
+/*全景图*/
+#panel-map-collect .equipment_collart{ }
+#panel-map-collect .equipment_collart .equipment-collart-back-btn{ width:auto; height:20px; line-height:20px; cursor:pointer; padding-left:18px; color:#45B6C0; display:block; background:url(../../../../images/arrow-goback.png) no-repeat center left; position:absolute; top:45px; right:30px;font-size: 16px;}
+
+/*工具栏*/
+#panel-map-collect .equipment_collart_tool{width:148px; margin:80px 0 0 25px;}
+#panel-map-collect .equipment_collart_tool .tool_box{border:1px solid #37939C; position:relative;height: 90%;}
+#panel-map-collect .equipment_collart_tool .tool_box dl{width:98px; margin:35px auto 0 auto; height:auto; clear:both;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dt{font-size:16px;text-align:right;font-weight:bold;height:auto;margin-bottom:20px;color: rgb(103, 233, 238);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd{ text-align:right;color:#2F929F; height:30px; line-height:30px; cursor:pointer;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd i{ color:#2F929F;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd span{ display:block; width:26px; height:100%; text-align:center; background-repeat:no-repeat; background-position:right center;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_01{ background-image:url(../../images/equipment_collart_tool_01.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_02{ background-image:url(../../images/equipment_collart_tool_02.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_03{ background-image:url(../../images/equipment_collart_tool_03.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_04{ background-image:url(../../images/equipment_collart_tool_04.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_04{ background-image:url(../../images/equipment_collart_tool_04.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_05{ background-image:url(../../images/equipment_collart_tool_05.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_06{ background-image:url(../../images/equipment_collart_tool_06.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_07{ background-image:url(../../images/equipment_collart_tool_07.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_08{ background-image:url(../../images/equipment_collart_tool_08.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_09{ background-image:url(../../images/equipment_collart_tool_09.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_10{ background-image:url(../../images/equipment_collart_tool_10.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_11{ background-image:url(../../images/equipment_collart_tool_11.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_21{ background-image:url(../../images/equipment_collart_tool_21.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_100{ background-image:url(../../images/equipment_collart_tool_100.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_102{ background-image:url(../../images/equipment_collart_tool_102.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_103{ background-image:url(../../images/equipment_collart_tool_103.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_104{ background-image:url(../../images/equipment_collart_tool_104.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_105{ background-image:url(../../images/equipment_collart_tool_105.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .icon_106{ background-image:url(../../images/equipment_collart_tool_106.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_01{ background-image:url(../../images/equipment_collart_tool_01_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_02{ background-image:url(../../images/equipment_collart_tool_02_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_03{ background-image:url(../../images/equipment_collart_tool_03_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_04{ background-image:url(../../images/equipment_collart_tool_04_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_04{ background-image:url(../../images/equipment_collart_tool_04_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_05{ background-image:url(../../images/equipment_collart_tool_05_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_06{ background-image:url(../../images/equipment_collart_tool_06_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_07{ background-image:url(../../images/equipment_collart_tool_07_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_08{ background-image:url(../../images/equipment_collart_tool_08_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_09{ background-image:url(../../images/equipment_collart_tool_09_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_10{ background-image:url(../../images/equipment_collart_tool_10_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_11{ background-image:url(../../images/equipment_collart_tool_11_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_21{ background-image:url(../../images/equipment_collart_tool_21_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_100{ background-image:url(../../images/equipment_collart_tool_100_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_102{ background-image:url(../../images/equipment_collart_tool_102_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_103{ background-image:url(../../images/equipment_collart_tool_103_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_104{ background-image:url(../../images/equipment_collart_tool_104_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_105{ background-image:url(../../images/equipment_collart_tool_105_2.png);}
+#panel-map-collect .equipment_collart_tool .tool_box dl .active .icon_106{ background-image:url(../../images/equipment_collart_tool_106_2.png);}
+
+#panel-map-collect .equipment_collart_tool .tool_box dl dd.open img.arrow_rb{ position:absolute; right:-10px; bottom:6px;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .menu_show{ position:absolute; width:125px; height:88px; right:-124px; top:0; z-index:9; display:none;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .menu_show .menu_show_relative{ position:relative; width:110px; height:100%; margin-left:15px;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .menu_show .top{ width:110px; height:14px; background:url(../../images/equipment_collart_tool_13.png) no-repeat;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .menu_show .btn{ width:110px; height:14px; background:url(../../images/equipment_collart_tool_12.png) no-repeat;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .menu_show .con{ width:110px; height:60px; background:url(../../images/equipment_collart_tool_14.png) repeat-y;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .menu_show .con a{ display:block; clear:both; height:20px; width:91px; margin:0 auto; line-height:20px; text-align:left; color:#ffffff;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .menu_show .con a:hover{ background:url(../../images/equipment_collart_tool_19.png) no-repeat;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .menu_show .con a img{ float:left; margin-left:10px; height:15px; width:15px; margin-right:5px; margin-top:5px;}
+#panel-map-collect .equipment_collart_tool .tool_box dl dd .menu_show .arrow_l{ position:absolute; left:-3px; top:15px;}
+
+
+/*工具栏高度太小改变布局*/
+#panel-map-collect .H500 .equipment_collart_tool .tool_box dl dd{width:auto; height:28px; float:right; margin-left:12px; margin-bottom:8px;}
+#panel-map-collect .H500 .equipment_collart_tool .tool_box dl dd span{width:20px;}
+#panel-map-collect .H500 .equipment_collart_tool .tool_box dl dd i{ display:none;}
+
+
+/*画板*/
+#panel-map-collect .equipment_collart_canvas{margin:0 15px; height:90%; width:200px;}
+#panel-map-collect .equipment_collart_canvas .canvas_menu{width:100%; height:80px; overflow:hidden;}
+#panel-map-collect .equipment_collart_canvas .canvas_menu span{ width:auto; display:block; float:left; text-align:center; margin-right:20px; margin-top:25px; cursor:pointer; padding:5px 5px 0px 5px;}
+#panel-map-collect .equipment_collart_canvas .canvas_menu span img{ display:block; clear:both; margin:0 auto 5px auto;}
+#panel-map-collect .equipment_collart_canvas .canvas_menu span i{ height:20px; display:block; line-height:20px; color:#2F929F;}
+#panel-map-collect .equipment_collart_canvas .canvas_menu span:hover{ background:url(../../images/equipment_collart_tool_20.png) no-repeat center center;}
+#panel-map-collect .equipment_collart_canvas .canvas_box{width:100%; height:50%; background:url(../../images/equipment_collart_canvas_line04.png) no-repeat 25px 25px;}
+#panel-map-collect .equipment_collart_canvas .canvas_box .bj-canvas-top{width:100%; height:20px;position:absolute;left:0;top:0;}
+#panel-map-collect .equipment_collart_canvas .canvas_box .bj-canvas-bottom{width:100%; height:20px;position:absolute;left:0; bottom:0;}
+#panel-map-collect .equipment_collart_canvas .canvas_box .bj-canvas-left{left:0; height:100%;width:20px;position:absolute; top:0;}
+#panel-map-collect .equipment_collart_canvas .canvas_box .bj-canvas-right{right:0;top:0;height:100%;width:20px;position:absolute;}
+#panel-map-collect .equipment_collart_canvas .canvas_box .bj-canvas-LT{left:20px;top:20px; height:auto;}
+#panel-map-collect .equipment_collart_canvas .canvas_box .bj-canvas-rightTop{right:0px;top:0px; height:20px;height:20px; position:absolute;}
+#panel-map-collect .equipment_collart_canvas .canvas_box .bj-canvas-rightBtm{right:0px;bottom:0px; height:20px;height:20px; position:absolute;}
+#panel-map-collect .equipment_collart_canvas .canvas_box .bj-canvas-leftTop{left:0px;top:0px; height:20px;height:20px; position:absolute;}
+#panel-map-collect .equipment_collart_canvas .canvas_box .bj-canvas-leftBtm{left:0px;bottom:0px; height:20px;height:20px; position:absolute;}
+
+
+
+/*设备（轨道节点）列表、属性栏*/
+#panel-map-collect .equipment_collart_attr{ width:258px; position:absolute;height:auto;right:0; top:80px;}
+#panel-map-collect .equipment_collart_attr dl{border:1px solid #37939C; position:relative;}
+#panel-map-collect .equipment_collart_attr dl dt{ height:42px; clear:both; position:relative; background:url(../../images/equipment_collart_icon_02.png) no-repeat center 7px; cursor:pointer;}
+#panel-map-collect .equipment_collart_attr dl dt span{width:48.8%;height:38px;float:left;text-align:center;line-height:38px;font-size: 0.8vw;color: rgb(103, 233, 238);}
+#panel-map-collect .equipment_collart_attr dl dt span.cur{background:url(../../images/equipment_collart_icon_09.png) repeat;}
+#panel-map-collect .equipment_collart_attr dl dt span.l{ margin-right:2.4%;}
+#panel-map-collect .equipment_collart_attr dl dt img{ clear:both; display:block; margin:2px auto 0 auto;}
+#panel-map-collect .equipment_collart_attr dl dd{ width:90%; margin:20px auto 0 auto;}
+#panel-map-collect .equipment_collart_attr dl dd a{ display:block; height:25px; width:100%; line-height:25px; color:#47B2BB;}
+#panel-map-collect .equipment_collart_attr dl dd a span{ display:block; text-align:right; float:left; height:25px; width:30px; position:relative; margin-right:4px;}
+#panel-map-collect .equipment_collart_attr dl dd a span img{ position:absolute; right:0; top:6px;}
+#panel-map-collect .equipment_collart_attr dl dd a.tab_tit{ color:#fff;}
+#panel-map-collect .equipment_collart_attr dl dd .tab_con{ margin:0; padding:0; overflow-y:hidden;}
+#panel-map-collect .equipment_list_scroll_c{ overflow-y: hidden; margin-top: 10px; margin-left: auto; margin-right: auto; width: 90%;}
+#panel-map-collect .equipment_list_scroll_p{ padding: 0; }
+#panel-map-collect .equipment_collart_attr dl dd a.tab_tit span{width:14px;}
+#panel-map-collect .equipment_collart_attr dl dd a.tab_tit span img{ position:absolute; left:-6px; top:7px;}
+#panel-map-collect .equipment_collart_attr dl dd a span div{border-left:1px dashed #558C9C;}
+#panel-map-collect .equipment_collart_attr dl dd a span .line_btm{ position:absolute; width:17px; height:13px; left:0; bottom:0;}
+#panel-map-collect .equipment_collart_attr dl dd a span .line_top{ position:absolute; width:17px; height:12px; border-bottom:1px dashed #558C9C; left:0; top:0;}
+#panel-map-collect .equipment_collart_attr dl dd a.lst span .line_btm{ display:none;}
+#panel-map-collect .equipment_collart_attr .equipment_attr{ margin-top:10px;}
+#panel-map-collect .equipment_collart_attr .equipment_attr dt{background:url();text-align: center;color: rgb(103, 233, 238);}
+#panel-map-collect .equipment_collart_attr .equipment_attr dt span{width:100%;height:40px;float:inherit;text-align:center;line-height:40px;font-size: 0.8vw;}
+#panel-map-collect .equipment_collart_attr .equipment_attr dt img{ clear:both; display:block; margin:0 auto;}
+#panel-map-collect .equipment_collart_attr .equipment_attr dd{ overflow:hidden;}
+#panel-map-collect .equipment_collart_attr .equipment_attr dd ul{ overflow-y:hidden;}
+#panel-map-collect .equipment_collart_attr .equipment_attr dd ul li{height:26px; margin-bottom:4px;}
+#panel-map-collect .equipment_collart_attr .equipment_attr dd ul li span{width: 36%; margin-right: 8px; display:block; height: 26px; line-height: 26px; text-align:right; color:#47B2BB;overflow: hidden;}
+#panel-map-collect .equipment_collart_attr .equipment_attr dd ul li input{ display:block; width: 100px; height: 25px; text-align:center;background-color:rgba(0, 0, 0, 0); border:1px solid #126879;color:#67E9EE; }
+#panel-map-collect .equipment_collart_attr .equipment_attr dd ul li select{ display:block; width: 100px; height: 25px; text-align:center;background-color:rgba(0, 0, 0, 0); border:1px solid #126879;color:#67E9EE; }
+#panel-map-collect .equipment_collart_attr .equipment_attr dd ul li select option{text-align:center;background-color:#012F3B;color:#67E9EE; }
+
+#panel-map-collect .equipment_list_scroll_c_mask{ position: absolute; left: 0; top: 52px; }
+
+
+/*四角背景图片*/
+#panel-map-collect .equipment_collart .icon_sharp{ position:absolute;}
+#panel-map-collect .equipment_collart .LT{ left:3px; top:3px;}
+#panel-map-collect .equipment_collart .RT{ right:3px; top:3px;}
+#panel-map-collect .equipment_collart .RB{ right:3px; bottom:3px;}
+#panel-map-collect .equipment_collart .LB{ left:3px; bottom:3px;}
+
+
+/*地图上面元素的样式*/
+#panel-map-collect .equipment_collart .mapDevice { background: #00749A;    text-align: center;  font-size: 0.12rem;}
+#panel-map-collect .equipment_collart .mapPathNode {   width: 10px;    height: 10px;    background: #FFFFFF; border:1px solid #ffffff;}
+#panel-map-collect .equipment_collart .mapEnvDevice {  width: 48px;    height: 48px;   border-radius: 5px; border: 1px solid #2F929F;  background-repeat:no-repeat;    background-position:center center;}
+#panel-map-collect .equipment_collart .mapObjectFocus { background-color: #1f748f;}
+
+/*编辑区域都采用absolute布局*/
+
+#panel-map-collect .equipment_collart .editspace { position:relative; border:1px solid #2F929F; overflow: auto; background-color: #003442;}
+#panel-map-collect .equipment_collart .editspace div { position:absolute; font-size:12px;}
+#panel-map-collect .equipment_collart {width: 100%;height: 100%;/* position: fixed; */padding: 0;margin: 0;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
+
+
+/*树状结构*/
+#panel-map-collect .equipment_collart_tree dl{border:1px solid #013D4D; position:relative;}
+#panel-map-collect .equipment_collart_tree dl dt{ height:42px; clear:both; position:relative; background:url(../../images/equipment_collart_icon_02.png) no-repeat center 7px; cursor:pointer;}
+#panel-map-collect .equipment_collart_tree dl dt span{ width:48.8%; height:38px; float:left; text-align:center; line-height:38px;}
+#panel-map-collect .equipment_collart_tree dl dt span.cur{background:url(../../images/equipment_collart_icon_09.png) repeat;}
+#panel-map-collect .equipment_collart_tree dl dt span.l{ margin-right:2.4%;}
+#panel-map-collect .equipment_collart_tree dl dt img{ clear:both; display:block; margin:2px auto 0 auto;}
+#panel-map-collect .equipment_collart_tree dl dd{ width:84%; margin:20px auto 0 auto;}
+#panel-map-collect .equipment_collart_tree dl dd a{ display:block; height: 30px; width:100%; line-height:25px; color:#47B2BB;}
+#panel-map-collect .equipment_collart_tree dl dd a span{ display:block; text-align:right; float:left; height: 30px; width:30px; position:relative; margin-right:4px;}
+#panel-map-collect .equipment_collart_tree dl dd a span img{ position:absolute; right:0; top:6px;}
+#panel-map-collect .equipment_collart_tree dl dd a.tab_tit{ color:#fff;}
+#panel-map-collect .equipment_collart_tree dl dd .tab_con{ margin:0; padding:0; overflow-y:auto; height:100%;}
+#panel-map-collect .equipment_collart_tree dl dd a.tab_tit span{width:14px;}
+#panel-map-collect .equipment_collart_tree dl dd a.tab_tit label{ float:right;font-size: 0.12rem}
+#panel-map-collect .equipment_collart_tree dl dd a.tab_tit span img{ position:absolute; left:-6px; top:7px;}
+#panel-map-collect .equipment_collart_tree dl dd a span div{border-left:1px dashed #558C9C;}
+#panel-map-collect .equipment_collart_tree dl dd a span .line_btm{ position:absolute; width:17px; height: 15px; left:0; bottom:0;}
+#panel-map-collect .equipment_collart_tree dl dd a span .line_top{ position:absolute; width:17px; height: 15px; border-bottom:1px dashed #558C9C; left:0; top:0;}
+#panel-map-collect .equipment_collart_tree dl dd a.lst span .line_btm{ display:none;}
+#panel-map-collect .equipment_collart_tree dl dd a .itemSlt{ float:right;  margin-top: 7px;}
+
+
+/* 滚动条 */
+#panel-map-collect .scrollDiv {
+    width: 14px;
+    position: absolute;
+    top: 0;
+    background-image: url(../../images/Slider.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    filter:alpha(opacity=50);
+}
+
+
+#panel-map-collect .equipment_collart_attr .ztree li a.curSelectedNode{background-color: inherit; border: 1px #fdaa8a solid;}
+.ztree .x-no-data{width: 100%; margin-top: 18vh;border: 0;}
+
+#panel-map-collect .node_name{
+    text-overflow: ellipsis;
+    width: 130px;
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+#panel-map-collect .reload{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 122px;
+    height: 34px;
+    text-align: center;
+    line-height: 34px;
+    background: url(../../images/button.png) center center no-repeat;
+    display: inline-block;
+    color: white;
+    margin: 20px auto;
+    cursor: pointer;
+    font-size: 12px;
+}

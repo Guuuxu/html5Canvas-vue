@@ -1,0 +1,47 @@
+.mapbuilder .mapDevice {
+	background: #00749A;
+	text-align: center;
+	font-size: 12px;
+	word-break:keep-all;/* 不换行 */
+    white-space:nowrap;/* 不换行 */
+    overflow:hidden;/* 内容超出宽度时隐藏超出部分的内容 */
+    text-overflow:ellipsis;/* 当对象内文本溢出时显示省略标记(...) ；需与overflow:hidden;一起使用。*/
+}
+
+.mapbuilder .mapPathNode {
+	width: 10px;
+	height: 10px;
+	background: #ffffff;
+}
+
+.mapbuilder .mapEnvDevice {
+	width: 48px;
+	height: 48px;
+	border-radius: 5px;
+	border: 1px solid #2F929F;
+	background-repeat: no-repeat;
+	background-position: center center;
+	cursor: pointer;
+}
+
+.mapbuilder .mapObjectFocus {
+	border: 1px solid #5DDBE2;
+	background-color: #1f748f;
+}
+
+.mapbuilder .mapDevice,
+.mapbuilder .mapPathNode,
+.mapbuilder .mapEnvDevice {
+	position: absolute;
+}
+
+.mapbuilder .mapRobot {
+	position: absolute;
+	width: 24px;
+	height: 36px;
+	/* background: url(../../../images/robot_new.png) no-repeat center center; */
+}
+
+.mapbuilder .mapDeviceFocus{
+	background: darkred !important;
+}
