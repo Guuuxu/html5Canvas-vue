@@ -13,6 +13,11 @@ module.exports = {
     'prettier/prettier': 'off',
     'no-unused-vars': 'off',
     'no-undef': 'off',
+    'no-unused-vars': 0,
+    'no-empty': 0,
+    'no-extra-boolean-cast': 0,
+    'no-redeclare': 0,
+    'no-irregular-whitespace': 0,
   },
   overrides: [
     {
