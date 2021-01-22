@@ -1,6 +1,6 @@
 # html5canvas
 
-html5canvas在vue当中的使用
+html5canvas画板工具在vue当中的使用
 
 ## Project setup
 ```
