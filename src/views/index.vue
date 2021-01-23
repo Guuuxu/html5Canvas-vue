@@ -51,14 +51,14 @@
 
 <script>
 import $ from 'jquery'
-import '../js/mapbuilder-constant'
-import '../js/mapbuilder'
-import '../js/mapbuilder-tools.js'
-import '../js/shape'
+// import '../js/mapbuilder-constant'
+// import '../js/mapbuilder'
+// import '../js/mapbuilder-tools.js'
+// import '../js/shape'
 import '../js/draw'
 export default {
   mounted() {
-    $('.btn').click(function() {
+    $('.btn').click(function () {
       console.log('click')
     })
   },

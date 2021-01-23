@@ -1,5 +1,5 @@
 //定义常量
-MapBuilderConstant = {}
+const MapBuilderConstant = {}
 
 MapBuilderConstant.TOOL_SELECT = 0
 MapBuilderConstant.TOOL_ADD_DEVICEGROUP = 1
@@ -82,3 +82,5 @@ MapBuilderConstant.DIALOG_SELECT_DEVICEGROUP = 1
 MapBuilderConstant.DIALOG_SELECT_DEVICE = 2
 //
 MapBuilderConstant.DIALOG_SELECT_ENVDEVICE = 3
+
+export default MapBuilderConstant
